@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0403/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘舍黎娑擔摩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0711.xml
+    old_id: T16n0711
+hash: sha256:50d484926a62e97be334e20e76184f7955e5ebb5839cbff46e0f27331f648aa0
